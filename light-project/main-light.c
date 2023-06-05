@@ -8,7 +8,7 @@
 
 #define LED_PIN 18
 #define LIGHT_PIN 34
-#define ANALOG_THRESHOLD 500
+#define ANALOG_THRESHOLD 300
 
 void light_sensor_task(void *pvParameters)
 {
